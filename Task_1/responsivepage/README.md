@@ -8,7 +8,7 @@ This is a fully responsive web page built using React, Tailwind CSS, and JavaScr
 ✅ Interactive UI with smooth animations  
 ✅ Professional layout with properly styled sections  
 ✅ Fully functional contact form  
-✅ Uses Tailwind CSS for easy customization  
+✅ Uses Tailwind CSS for easy customization
 
 ## Installation & Setup
 
@@ -17,9 +17,12 @@ Follow these steps to download and run the project locally:
 ### 1️⃣ Clone the repository
 
 ```sh
-git clone https://github.com/your-username/responsive-webpage.git
-cd responsive-webpage
+git clone https://github.com/saiyamdubey/vimoviglobaltech_Assignment.git
+cd Task_1
+cd responsivewebpage
 ```
+
+you should have to be at "........ \Task_1\responsivepage>" this location
 
 ### 2️⃣ Install dependencies
 
@@ -30,10 +33,14 @@ npm install
 ### 3️⃣ Start the development server
 
 ```sh
-npm start
+npm run dev
 ```
 
 The webpage will be available at `http://localhost:3000/`.
+
+or at
+
+The webpage will be available at `http://localhost:5173/`.
 
 ## Project Structure
 
@@ -61,17 +68,17 @@ responsive-webpage/
 
 ## Screenshots
 
-### 💠 Header & Navigation Bar
-![Header](https://via.placeholder.com/800x400.png?text=Header+Screenshot)
+### 💠 Header & Navigation Bar & Hero Section
 
-### 💠 Hero Section
-![Hero](https://via.placeholder.com/800x400.png?text=Hero+Section)
+![Header](https://github.com/saiyamdubey/vimoviglobaltech_Assignment/blob/main/Task_1/responsivepage/src/assets/Screenshot%202025-02-24%20152917.png?raw=true)
 
 ### 💠 Services Section
-![Services](https://via.placeholder.com/800x400.png?text=Services+Section)
+
+![Services](https://github.com/saiyamdubey/vimoviglobaltech_Assignment/blob/main/Task_1/responsivepage/src/assets/Screenshot%202025-02-24%20152926.png?raw=true)
 
 ### 💠 Contact Form
-![Contact](https://via.placeholder.com/800x400.png?text=Contact+Form)
+
+![Contact](https://github.com/saiyamdubey/vimoviglobaltech_Assignment/blob/main/Task_1/responsivepage/src/assets/Screenshot%202025-02-24%20152932.png?raw=true)
 
 ## Contributing
 
