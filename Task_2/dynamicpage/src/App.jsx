@@ -1,11 +1,11 @@
 import  { useState } from 'react';
-import { Header } from '../src/components/Header';
-import About from './components/AboutUs';
-import Services from './Components/Services';
-import Products from './Components/Products';
-import Carousel from './Components/Carousel';
-import Contact from './Components/ContactForm';
-import Footer from './Components/Footer';
+import Header  from '../src/components/Header';
+import About from '../src/components/AboutUs';
+import Services from '../src/components/Services';
+import Products from '../src/components/Products';
+import Carousel from '../src/components/Carousel';
+import Contact from '../src/components/ContactForm';
+import Footer from '../src/components/Footer';
 
 function App() {
   const [darkMode, setDarkMode] = useState(false);
