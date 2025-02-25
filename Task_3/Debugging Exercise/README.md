@@ -6,7 +6,7 @@
 Below is a buggy JavaScript snippet that needs debugging. Fix the errors and explain your solution.
 
 
-![Image]()
+![Image](https://github.com/saiyamdubey/vimoviglobaltech_Assignment/blob/main/Task_3/Debugging%20Exercise/image.png?raw=true)
 
 ## **How to Run This Project**
 ### **Step 1: Clone or Download the Repository**
