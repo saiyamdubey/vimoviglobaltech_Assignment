@@ -1,0 +1,61 @@
+@import "tailwindcss";
+
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  transition: background 0.3s;
+}
+
+.dark-mode {
+  background: #121212;
+  color: white;
+}
+
+.toggle-btn {
+  padding: 10px 20px;
+  cursor: pointer;
+  background: #333;
+  color: white;
+  border: none;
+  margin: 10px;
+}
+
+.carousel-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+.carousel-image {
+  width: 400px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  margin: 20px auto;
+}
+
+.contact-form input,
+.contact-form textarea {
+  margin: 10px 0;
+  padding: 8px;
+  width: 100%;
+}
+
+.contact-form .error {
+  color: red;
+  font-size: 12px;
+}
+
+button {
+  padding: 10px;
+  background: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
